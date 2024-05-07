@@ -17,12 +17,6 @@ Film Hub is a web application developed using React. This dynamic and fully resp
   - query params and `useParams` hook in `react-router`
   - infinite scroll (using `react-infinite-scroller-component`)
 
-## Preview
-
-![image](https://github.com/vaheedsk36/movie-magnet/assets/72762824/30a46bfe-69cc-41ba-82f0-0c53e2e55250)
-![image](https://github.com/vaheedsk36/movie-magnet/assets/72762824/277009ff-e3fd-4d9a-920c-1635edc6ee0d)
-![image](https://github.com/vaheedsk36/movie-magnet/assets/72762824/2068f4db-1ba6-4387-a410-eceeb524fa90)
-![image](https://github.com/vaheedsk36/movie-magnet/assets/72762824/2a5db533-1882-433d-9553-fa9cc853f397)
 
 ## Setup Instructions
 
